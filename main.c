@@ -1,9 +1,9 @@
-//
-//  main.c
-//  Resolver_Tri
-//
-//  Created by Raúl Prieto Prieto on 26/11/22.
-//
+/*
+  main.c
+  Resolver_Tri
+
+  Created by Raúl Prieto Prieto on 26/11/22.
+*/
 
 #include <stdio.h>
 #include <math.h>
